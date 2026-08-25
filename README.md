@@ -210,7 +210,7 @@ Technologies Used:
 - Seaborn
 - Scikit-learn
 - TensorFlow / Keras
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
@@ -218,7 +218,7 @@ How to Run:
 
 1. Clone the repository
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <[OUR_GITHUB_REPOSITORY_URL](https://github.com/hazarikafarhan05/Car-Resale-Value-Prediction-PBEL-PROJECT.git)>
 cd Used-Car-Resale-Value-Prediction
 
 2. Install dependencies
